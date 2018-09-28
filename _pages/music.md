@@ -8,7 +8,7 @@ permalink: https://cgm916.com/music/
 published: true
 post_date: 2018-04-04 12:17:53
 ---
-<section id="music_header_content" class="jolpai-main-section  jolpai-section-6aafdcd9dd3ed6efdc111937d53615d6">
+<section id="music_header_content" class="jolpai-main-section  jolpai-section-93b46294f6cb85d82d698e0d6837569a">
     
     
     
@@ -22,7 +22,7 @@ post_date: 2018-04-04 12:17:53
 	<div class="fw-col-xs-12">
 	<div class="jolpai-textblock-section music_header_text">
 
-    <div class="jolpai-textblock jolpai-textblock-f843f1f07c0985376fd3dd9e997cce2b">
+    <div class="jolpai-textblock jolpai-textblock-a20cc871902404ee6ddd6d47922f134d">
 
         <h1 style="text-align: center"><span style="color: #ffffff">Our Media</span></h1>
 <p style="text-align: center"><span style="color: #ffffff">Talented Local Artists, Producers, and DJ's<br /></span></p>
@@ -38,7 +38,7 @@ post_date: 2018-04-04 12:17:53
 
     </div>
 </section>
-<section id="music_content_section" class="jolpai-main-section  jolpai-section-c3829b79dead8848b8294535de7c9fab">
+<section id="music_content_section" class="jolpai-main-section  jolpai-section-dc64253ec434dac9e8cf165fc9090f4a">
     
     
     
@@ -55,7 +55,7 @@ post_date: 2018-04-04 12:17:53
 <div class="fw-col-xs-12 fw-col-sm-6">
 	<div class="jolpai-textblock-section music_content_video_one_text">
 
-    <div class="jolpai-textblock jolpai-textblock-556088cdaae089b9a307210155a7a4c2">
+    <div class="jolpai-textblock jolpai-textblock-01cdb5b068ebeff848a46f4f44f0f391">
 
         <h3><span style="color: #e3a52d">Introducing the To Blee Blunt Show<br /></span></h3>
 <p><span style="color: #ffffff">Official Video - C-Plus</span></p>
@@ -72,7 +72,7 @@ post_date: 2018-04-04 12:17:53
 
     </div>
 </section>
-<section class="jolpai-main-section  jolpai-section-0c50cb80a43b034261400a9bcf54d6b3">
+<section class="jolpai-main-section  jolpai-section-3ea18b7999f05f13143e85dbb2b4cae6">
     
     
     
@@ -85,7 +85,7 @@ post_date: 2018-04-04 12:17:53
 	<div class="fw-col-xs-12 fw-col-sm-6">
 	<div class="jolpai-textblock-section music_content_video_two_text">
 
-    <div class="jolpai-textblock jolpai-textblock-76c435caaf7e9f9bab12b584547faeeb">
+    <div class="jolpai-textblock jolpai-textblock-f04f42c57e63d66ca1052623dbf0cc71">
 
         <h3 class="title style-scope ytd-video-primary-info-renderer"><span style="color: #e3a52d">SantanaMustDie - To Blee Blunt Show<br /></span></h3>
 <p><span style="color: #ffffff">Official Video<br /></span></p>
@@ -105,7 +105,7 @@ post_date: 2018-04-04 12:17:53
 
     </div>
 </section>
-<section class="jolpai-main-section  jolpai-section-426fdade0ba9780381c8dfe27222a3a6">
+<section class="jolpai-main-section  jolpai-section-6a3f73d84ff96528e0b4496c676f606c">
     
     
     
@@ -122,7 +122,7 @@ post_date: 2018-04-04 12:17:53
 <div class="fw-col-xs-12 fw-col-sm-6">
 	<div class="jolpai-textblock-section music_content_video_two_text">
 
-    <div class="jolpai-textblock jolpai-textblock-a4188bce9e2991588190aff16bff747c">
+    <div class="jolpai-textblock jolpai-textblock-094184a89aa5fed695b24f17676dd3e7">
 
         <h3 class="title style-scope ytd-video-primary-info-renderer"><span style="color: #e3a52d">Ladies First - To Blee Blunt Show<br /></span></h3>
 <p><span style="color: #ffffff">Official Video<br /></span></p>
