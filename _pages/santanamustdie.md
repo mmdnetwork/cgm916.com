@@ -1,6 +1,6 @@
 ---
 ID: 786
-post_title: '<center><h1>DJ Santana Must Die</h1></center>'
+post_title: '<center>DJ Santana Must Die<br><img src="https://cgm916.com/wp-content/uploads/2019/02/44387600_350680445699060_6498748086825779200_n.jpg"></center>'
 author: Common Ground Media
 post_excerpt: ""
 layout: page
