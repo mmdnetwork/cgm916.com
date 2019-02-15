@@ -1,6 +1,6 @@
 ---
 ID: 786
-post_title: Santana Must Die
+post_title: DJ Santana Must Die
 author: Common Ground Media
 post_excerpt: ""
 layout: page
