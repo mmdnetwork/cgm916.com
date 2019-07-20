@@ -15,4 +15,5 @@ post_date: 2019-02-15 11:25:08
 				<iframe width="500" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=false&#038;url=https%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F708295725&#038;show_artwork=true&#038;maxwidth=500&#038;maxheight=750&#038;dnt=1&#038;auto_play=false&#038;buying=true&#038;liking=true&#038;download=true&#038;sharing=true&#038;show_comments=true&#038;show_playcount=true&#038;show_user=true&#038;color"></iframe>			
 			<figure><img width="288" height="288" src="https://cgm916.com/wp-content/uploads/2019/02/unnamed.jpg" alt="" srcset="https://cgm916.com/wp-content/uploads/2019/02/unnamed.jpg 288w, https://cgm916.com/wp-content/uploads/2019/02/unnamed-150x150.jpg 150w" sizes="(max-width: 288px) 100vw, 288px" /></figure><h3>Featured on To Blee Blunt Show!</h3><p>Watch interview with DJ Santana Must Die.  </p>		
 		https://youtu.be/9R2ZoGf_3EU		
-			<h1>We Call This One The Almighty</h1>
+			<h1>We Call This One The Almighty</h1>		
+		[wp_rss_retriever url="http://cgm916.com/353168.rss" items="10" excerpt="50" read_more="true" credits="true" new_window="true" thumbnail="200" cache="7200"]
