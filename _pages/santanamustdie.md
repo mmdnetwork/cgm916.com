@@ -18,5 +18,7 @@ post_date: 2019-02-15 11:25:08
 			<h1>Featured Podcasts</h1>		
 											<a href="https://www.buzzsprout.com/353168/1409284" data-elementor-open-lightbox="">
 							<img width="300" height="300" src="https://cgm916.com/wp-content/uploads/2019/07/74cb75bab2243992e98fab5156007185827084cf97936f24c0c66a651388df90-300x300.jpeg" alt="" srcset="https://cgm916.com/wp-content/uploads/2019/07/74cb75bab2243992e98fab5156007185827084cf97936f24c0c66a651388df90-300x300.jpeg 300w, https://cgm916.com/wp-content/uploads/2019/07/74cb75bab2243992e98fab5156007185827084cf97936f24c0c66a651388df90-150x150.jpeg 150w, https://cgm916.com/wp-content/uploads/2019/07/74cb75bab2243992e98fab5156007185827084cf97936f24c0c66a651388df90.jpeg 600w, https://cgm916.com/wp-content/uploads/2019/07/74cb75bab2243992e98fab5156007185827084cf97936f24c0c66a651388df90-585x585.jpeg 585w" sizes="(max-width: 300px) 100vw, 300px" />								</a>
-			<h4>[Listen Now]</h4>		
-		<center>[wp_rss_retriever url="http://cgm916.com/353168.rss" items="1" excerpt="50" read_more="true" credits="true" new_window="true" thumbnail="200" cache="7200"]</center>
+		<center>[wp_rss_retriever url="http://cgm916.com/353168.rss" items="1" excerpt="50" read_more="true" credits="true" new_window="true" thumbnail="200" cache="7200"]</center>		
+			<a href="#" role="button">
+						Play Now
+					</a>
