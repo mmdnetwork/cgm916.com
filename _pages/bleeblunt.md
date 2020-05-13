@@ -1,6 +1,6 @@
 ---
 ID: 1030
-post_title: Too Blee Blunt
+post_title: To Blee Blunt
 author: Common Ground Media
 post_excerpt: ""
 layout: page
