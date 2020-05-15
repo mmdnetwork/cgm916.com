@@ -11,9 +11,9 @@ permalink: https://cgm916.com/media/
 published: true
 post_date: 2020-05-15 11:29:00
 ---
-<img width="150" height="150" src="https://cgm916.com/wp-content/uploads/2018/05/circle-cgmlogo.jpg" alt="" srcset="https://cgm916.com/wp-content/uploads/2018/05/circle-cgmlogo.jpg 150w, https://cgm916.com/wp-content/uploads/2018/05/circle-cgmlogo-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" />											
-			<h3>Talented local sacramento artists</h3>		
-			<h1>ALL SHOWCASING THEIR SKILLS ON A COMMON GROUND</h1>		
+<img width="237" height="87" src="https://cgm916.com/wp-content/uploads/2018/04/logo-1.jpg" alt="" />											
+			<h3>The COMMON GROUND MEDIA SHOWCASE</h3>		
+			<h1>TALENTED LOCAL SACRAMENTO ARTISTS</h1>		
 					                        <img width="300" height="300" src="https://cgm916.com/wp-content/uploads/2020/05/pylit-Logo-blk-1-1024x670-1-300x300.png" alt="" srcset="https://cgm916.com/wp-content/uploads/2020/05/pylit-Logo-blk-1-1024x670-1-300x300.png 300w, https://cgm916.com/wp-content/uploads/2020/05/pylit-Logo-blk-1-1024x670-1-150x150.png 150w, https://cgm916.com/wp-content/uploads/2020/05/pylit-Logo-blk-1-1024x670-1-100x100.png 100w" sizes="(max-width: 300px) 100vw, 300px" />					
 						<h1></h1>                            
                                 <h2 style="text-align: center; font-weight: bolder; color: white; font-family: Anton;">VIDEO CONTENT CREATOR - Pylit Media</h2>
@@ -25,12 +25,11 @@ post_date: 2020-05-15 11:29:00
                         }  
                     }
                 </style>
-					                        <img width="300" height="300" src="https://cgm916.com/wp-content/uploads/2020/05/Screenshot_20200513-095944_Facebook1-300x300-3.jpg" alt="" srcset="https://cgm916.com/wp-content/uploads/2020/05/Screenshot_20200513-095944_Facebook1-300x300-3.jpg 300w, https://cgm916.com/wp-content/uploads/2020/05/Screenshot_20200513-095944_Facebook1-300x300-3-150x150.jpg 150w, https://cgm916.com/wp-content/uploads/2020/05/Screenshot_20200513-095944_Facebook1-300x300-3-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" />					
-						<h4></h4>                            
-                                <h2></h2>
-<h2 style="text-align: center; font-weight: bolder; color: white; font-family: Anton;">INTERVIEWS WITH BLEE - To Blee Blunt Show</h2>
-					<a href="https://cgm916.com/tobleeblunt/" title="" target="_blank" rel="noopener noreferrer"></a>				
 					                        <img width="300" height="300" src="https://cgm916.com/wp-content/uploads/2020/05/santanamustdie_graphic300x300-1-300x300.png" alt="" srcset="https://cgm916.com/wp-content/uploads/2020/05/santanamustdie_graphic300x300-1-300x300.png 300w, https://cgm916.com/wp-content/uploads/2020/05/santanamustdie_graphic300x300-1-150x150.png 150w, https://cgm916.com/wp-content/uploads/2020/05/santanamustdie_graphic300x300-1-100x100.png 100w" sizes="(max-width: 300px) 100vw, 300px" />					
 						<h4></h4>                            
                                 <h2 style="text-align: center; font-weight: bold; color: white; font-family: Anton;">A WORLDCLASS DJ - Santana Must Die</h2>
-					<a href="https://cgm916.com/santanamustdie/" title="SEE WHATS NEW WITH SANTANA MUST DIE" target="_blank" rel="noopener noreferrer"></a>
+					<a href="https://cgm916.com/santanamustdie/" title="SEE WHATS NEW WITH SANTANA MUST DIE" target="_blank" rel="noopener noreferrer"></a>				
+					                        <img width="300" height="300" src="https://cgm916.com/wp-content/uploads/2020/05/Screenshot_20200513-095944_Facebook1-300x300-3.jpg" alt="" srcset="https://cgm916.com/wp-content/uploads/2020/05/Screenshot_20200513-095944_Facebook1-300x300-3.jpg 300w, https://cgm916.com/wp-content/uploads/2020/05/Screenshot_20200513-095944_Facebook1-300x300-3-150x150.jpg 150w, https://cgm916.com/wp-content/uploads/2020/05/Screenshot_20200513-095944_Facebook1-300x300-3-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" />					
+						<h4></h4>                            
+                                <h2 style="text-align: center; font-weight: bolder; color: white; font-family: Anton;">INTERVIEWS WITH BLEE - To Blee Blunt Show</h2>
+					<a href="https://cgm916.com/tobleeblunt/" title="" target="_blank" rel="noopener noreferrer"></a>
