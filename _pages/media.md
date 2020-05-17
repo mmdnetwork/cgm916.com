@@ -57,19 +57,15 @@ Flip The Bag Music Video</h2>
                         }  
                     }
                 </style>
-					                        <img width="300" height="300" src="https://cgm916.com/wp-content/uploads/2020/05/finni-1.jpeg" alt="" srcset="https://cgm916.com/wp-content/uploads/2020/05/finni-1.jpeg 300w, https://cgm916.com/wp-content/uploads/2020/05/finni-1-150x150.jpeg 150w, https://cgm916.com/wp-content/uploads/2020/05/finni-1-100x100.jpeg 100w" sizes="(max-width: 300px) 100vw, 300px" />					
-						<h4></h4>                            
-                                <h2 style="text-align: center; font-weight: bold; color: white; font-family: Anton;">KING FINNI BRUDDA - Been Thru Official Music Video</h2>
-					<a href="https://m.youtube.com/watch/?feature=youtu.be&v=4vfJiJXKDHs" title="Watch Video" target="_blank" rel="noopener noreferrer"></a>				
 					                        <img width="300" height="300" src="https://cgm916.com/wp-content/uploads/2020/05/Screenshot_20200513-095944_Facebook1-300x300-3.jpg" alt="" srcset="https://cgm916.com/wp-content/uploads/2020/05/Screenshot_20200513-095944_Facebook1-300x300-3.jpg 300w, https://cgm916.com/wp-content/uploads/2020/05/Screenshot_20200513-095944_Facebook1-300x300-3-150x150.jpg 150w, https://cgm916.com/wp-content/uploads/2020/05/Screenshot_20200513-095944_Facebook1-300x300-3-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" />					
 						<h4></h4>                            
                                 <h2 style="text-align: center; font-weight: bolder; color: white; font-family: Anton;">TO BE BLUNT SHOW - Interviews With Local Artists</h2>
 <h3 style="text-align: center; font-weight: bolder; color: white; font-family: Anton;"><a style="color: yellow;" href="https://www.instagram.com/p/BpqLXWenVhW/?igshid=u9xgnttpdr36">Watch the season finale "Food Fight"</a></h4>
 					<a href="https://cgm916.com/tobleeblunt/" title="WATCH THE TO BLEE BLUNT SHOW" target="_blank" rel="noopener noreferrer"></a>				
-					                        <img width="300" height="300" src="https://cgm916.com/wp-content/uploads/2020/05/Screenshot_20200513-095944_Facebook1-300x300-3.jpg" alt="" srcset="https://cgm916.com/wp-content/uploads/2020/05/Screenshot_20200513-095944_Facebook1-300x300-3.jpg 300w, https://cgm916.com/wp-content/uploads/2020/05/Screenshot_20200513-095944_Facebook1-300x300-3-150x150.jpg 150w, https://cgm916.com/wp-content/uploads/2020/05/Screenshot_20200513-095944_Facebook1-300x300-3-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" />					
+					                        <img width="300" height="300" src="https://cgm916.com/wp-content/uploads/2020/05/finni-1.jpeg" alt="" srcset="https://cgm916.com/wp-content/uploads/2020/05/finni-1.jpeg 300w, https://cgm916.com/wp-content/uploads/2020/05/finni-1-150x150.jpeg 150w, https://cgm916.com/wp-content/uploads/2020/05/finni-1-100x100.jpeg 100w" sizes="(max-width: 300px) 100vw, 300px" />					
 						<h4></h4>                            
-                                <h2 style="text-align: center; font-weight: bolder; color: white; font-family: Anton;">TO BE BLUNT SHOW - Interviews With Local Artists</h2>
-<h3 style="text-align: center; font-weight: bolder; color: white; font-family: Anton;"><a style="color: yellow;" href="https://www.instagram.com/p/BpqLXWenVhW/?igshid=u9xgnttpdr36">Watch the season finale "Food Fight"</a></h4>
+                                <h2 style="text-align: center; font-weight: bold; color: white; font-family: Anton;">KING FINNI BRUDDA - Been Thru Official Music Video</h2>
+					<a href="https://m.youtube.com/watch/?feature=youtu.be&v=4vfJiJXKDHs" title="Watch Video" target="_blank" rel="noopener noreferrer"></a>				
 					                        <img width="300" height="300" src="https://cgm916.com/wp-content/uploads/2020/05/pylit-Logo-blk-1-1024x670-1-300x300.png" alt="" srcset="https://cgm916.com/wp-content/uploads/2020/05/pylit-Logo-blk-1-1024x670-1-300x300.png 300w, https://cgm916.com/wp-content/uploads/2020/05/pylit-Logo-blk-1-1024x670-1-150x150.png 150w, https://cgm916.com/wp-content/uploads/2020/05/pylit-Logo-blk-1-1024x670-1-100x100.png 100w" sizes="(max-width: 300px) 100vw, 300px" />					
 						<h1></h1>                            
                                 <h2 style="text-align: center; font-weight: bolder; color: white; font-family: Anton;">VIDEO CONTENT CREATOR - Pylit Media</h2>
