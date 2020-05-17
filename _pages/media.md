@@ -27,8 +27,9 @@ Pylit Media</h2>
                 </style>
 					                        <img width="300" height="300" src="https://cgm916.com/wp-content/uploads/2020/05/nashboogiebanner-300x300.jpeg" alt="" srcset="https://cgm916.com/wp-content/uploads/2020/05/nashboogiebanner-300x300.jpeg 300w, https://cgm916.com/wp-content/uploads/2020/05/nashboogiebanner-1024x1024.jpeg 1024w, https://cgm916.com/wp-content/uploads/2020/05/nashboogiebanner-150x150.jpeg 150w, https://cgm916.com/wp-content/uploads/2020/05/nashboogiebanner-768x768.jpeg 768w, https://cgm916.com/wp-content/uploads/2020/05/nashboogiebanner-1536x1536.jpeg 1536w, https://cgm916.com/wp-content/uploads/2020/05/nashboogiebanner-600x600.jpeg 600w, https://cgm916.com/wp-content/uploads/2020/05/nashboogiebanner-100x100.jpeg 100w, https://cgm916.com/wp-content/uploads/2020/05/nashboogiebanner-585x585.jpeg 585w, https://cgm916.com/wp-content/uploads/2020/05/nashboogiebanner.jpeg 1600w" sizes="(max-width: 300px) 100vw, 300px" />					
 						<h1></h1>                            
-                                <h2 style="text-align: center; font-weight: bolder; color: white; font-family: Anton;">NASH BOOGIE - <br> Flip The Bag Music Video</h2>
-<br>
+                                <h2 style="text-align: center; font-weight: bolder; color: white; font-family: Anton;">NASH BOOGIE -
+Instant Music Video</h2>
+&nbsp;
 <h4>Visit <a href="https://www.nashboogie.com">Nashboogie.com</a></h4>
 					<a href="https://youtu.be/mBEIFubAiOI" title="Watch Music Video" target="_blank" rel="noopener noreferrer"></a>				
                                 <style>
