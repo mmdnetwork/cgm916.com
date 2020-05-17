@@ -65,30 +65,4 @@ Flip The Bag Music Video</h2>
 					                        <img width="300" height="300" src="https://cgm916.com/wp-content/uploads/2020/05/finni-1.jpeg" alt="" srcset="https://cgm916.com/wp-content/uploads/2020/05/finni-1.jpeg 300w, https://cgm916.com/wp-content/uploads/2020/05/finni-1-150x150.jpeg 150w, https://cgm916.com/wp-content/uploads/2020/05/finni-1-100x100.jpeg 100w" sizes="(max-width: 300px) 100vw, 300px" />					
 						<h4></h4>                            
                                 <h2 style="text-align: center; font-weight: bold; color: white; font-family: Anton;">KING FINNI BRUDDA - Been Thru Official Music Video</h2>
-					<a href="https://m.youtube.com/watch/?feature=youtu.be&v=4vfJiJXKDHs" title="Watch Video" target="_blank" rel="noopener noreferrer"></a>				
-					                        <img width="300" height="300" src="https://cgm916.com/wp-content/uploads/2020/05/pylit-Logo-blk-1-1024x670-1-300x300.png" alt="" srcset="https://cgm916.com/wp-content/uploads/2020/05/pylit-Logo-blk-1-1024x670-1-300x300.png 300w, https://cgm916.com/wp-content/uploads/2020/05/pylit-Logo-blk-1-1024x670-1-150x150.png 150w, https://cgm916.com/wp-content/uploads/2020/05/pylit-Logo-blk-1-1024x670-1-100x100.png 100w" sizes="(max-width: 300px) 100vw, 300px" />					
-						<h1></h1>                            
-                                <h2 style="text-align: center; font-weight: bolder; color: white; font-family: Anton;">VIDEO CONTENT CREATOR - Pylit Media</h2>
-					<a href="https://cgm916.com/pylitmedia/" title="Checkout Pylit Media " target="_blank" rel="noopener noreferrer"></a>				
-                                <style>
-                    @media( min-width: 1px ) and (max-width:767px ) {
-                    #premium-banner-fd513e0 .premium-banner-ib-content {
-                        display: none;
-                        }  
-                    }
-                </style>
-					                        <img width="300" height="300" src="https://cgm916.com/wp-content/uploads/2020/05/santanamustdie_graphic300x300-1-300x300.png" alt="" srcset="https://cgm916.com/wp-content/uploads/2020/05/santanamustdie_graphic300x300-1-300x300.png 300w, https://cgm916.com/wp-content/uploads/2020/05/santanamustdie_graphic300x300-1-150x150.png 150w, https://cgm916.com/wp-content/uploads/2020/05/santanamustdie_graphic300x300-1-100x100.png 100w" sizes="(max-width: 300px) 100vw, 300px" />					
-						<h4></h4>                            
-                                <h2 style="text-align: center; font-weight: bold; color: white; font-family: Anton;">A WORLDCLASS DJ - Santana Must Die</h2>
-					<a href="https://cgm916.com/santanamustdie/" title="SEE WHATS NEW WITH SANTANA MUST DIE" target="_blank" rel="noopener noreferrer"></a>				
-					                        <img width="300" height="300" src="https://cgm916.com/wp-content/uploads/2020/05/pylit-Logo-blk-1-1024x670-1-300x300.png" alt="" srcset="https://cgm916.com/wp-content/uploads/2020/05/pylit-Logo-blk-1-1024x670-1-300x300.png 300w, https://cgm916.com/wp-content/uploads/2020/05/pylit-Logo-blk-1-1024x670-1-150x150.png 150w, https://cgm916.com/wp-content/uploads/2020/05/pylit-Logo-blk-1-1024x670-1-100x100.png 100w" sizes="(max-width: 300px) 100vw, 300px" />					
-						<h1></h1>                            
-                                <h2 style="text-align: center; font-weight: bolder; color: white; font-family: Anton;">VIDEO CONTENT CREATOR - Pylit Media</h2>
-					<a href="https://cgm916.com/pylitmedia/" title="Checkout Pylit Media " target="_blank" rel="noopener noreferrer"></a>				
-                                <style>
-                    @media( min-width: 1px ) and (max-width:767px ) {
-                    #premium-banner-fa64793 .premium-banner-ib-content {
-                        display: none;
-                        }  
-                    }
-                </style>
+					<a href="https://m.youtube.com/watch/?feature=youtu.be&v=4vfJiJXKDHs" title="Watch Video" target="_blank" rel="noopener noreferrer"></a>
