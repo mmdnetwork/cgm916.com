@@ -15,7 +15,7 @@ post_date: 2020-05-15 11:29:00
 			<h1>MEDIA</h1>		
 					                        <img width="300" height="300" src="https://cgm916.com/wp-content/uploads/2020/05/pylit-Logo-blk-1-1024x670-1-300x300.png" alt="" srcset="https://cgm916.com/wp-content/uploads/2020/05/pylit-Logo-blk-1-1024x670-1-300x300.png 300w, https://cgm916.com/wp-content/uploads/2020/05/pylit-Logo-blk-1-1024x670-1-150x150.png 150w, https://cgm916.com/wp-content/uploads/2020/05/pylit-Logo-blk-1-1024x670-1-100x100.png 100w" sizes="(max-width: 300px) 100vw, 300px" />					
 						<h1></h1>                            
-                                <h2 style="text-align: center; font-weight: bolder; color: white; font-family: Anton; font-size: 18pt;">WORLDCLASS VIDEOGRAPHER<br /><a style="color: red;" href="https://www.cgm916.com/pylitmedia">Pylit Media</a></h2><h4 style="text-align: center; font-weight: bolder; font-family: Anton;"><a style="color: yellow;" href="https://m.youtube.com/watch?feature=youtu.be&amp;v=4vfJiJXKDHs"><button type="button">Watch Music Video Shot By Pylit Media</button></a></h4><h4> </h4>
+                                <h2 style="text-align: center; font-weight: bold; color: white; font-family: Anton;">A WORLDCLASS DJ - Santana Must Die</h2>
 					<a href="https://www.youtube.com/watch?feature=youtu.be&v=4vfJiJXKDHs&app=desktop" title="King Finni Brudda" target="_blank" rel="noopener noreferrer"></a>				
                                 <style>
                     @media( min-width: 1px ) and (max-width:767px ) {
