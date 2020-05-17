@@ -27,8 +27,8 @@ Pylit Media</h2>
                 </style>
 					                        <img width="300" height="300" src="https://cgm916.com/wp-content/uploads/2020/05/nashboogiebanner-300x300.jpeg" alt="" srcset="https://cgm916.com/wp-content/uploads/2020/05/nashboogiebanner-300x300.jpeg 300w, https://cgm916.com/wp-content/uploads/2020/05/nashboogiebanner-1024x1024.jpeg 1024w, https://cgm916.com/wp-content/uploads/2020/05/nashboogiebanner-150x150.jpeg 150w, https://cgm916.com/wp-content/uploads/2020/05/nashboogiebanner-768x768.jpeg 768w, https://cgm916.com/wp-content/uploads/2020/05/nashboogiebanner-1536x1536.jpeg 1536w, https://cgm916.com/wp-content/uploads/2020/05/nashboogiebanner-600x600.jpeg 600w, https://cgm916.com/wp-content/uploads/2020/05/nashboogiebanner-100x100.jpeg 100w, https://cgm916.com/wp-content/uploads/2020/05/nashboogiebanner-585x585.jpeg 585w, https://cgm916.com/wp-content/uploads/2020/05/nashboogiebanner.jpeg 1600w" sizes="(max-width: 300px) 100vw, 300px" />					
 						<h1></h1>                            
-                                <h2 style="text-align: center; font-weight: bolder; color: white; font-family: Anton;">King Finni Brudda</h2>
-					<a href="https://cgm916.com/pylitmedia/" title="Checkout Pylit Media " target="_blank" rel="noopener noreferrer"></a>				
+                                <h2 style="text-align: center; font-weight: bolder; color: white; font-family: Anton;">A SACRAMENTO RAPPER - <br> Nash Boogie</h2>
+					<a href="https://www.nashboogie.com" title="Visit Website" target="_blank" rel="noopener noreferrer"></a>				
                                 <style>
                     @media( min-width: 1px ) and (max-width:767px ) {
                     #premium-banner-dea1f04 .premium-banner-ib-content {
@@ -40,10 +40,10 @@ Pylit Media</h2>
 						<h4></h4>                            
                                 <h2 style="text-align: center; font-weight: bold; color: white; font-family: Anton;">A WORLDCLASS DJ - Santana Must Die</h2>
 					<a href="https://cgm916.com/santanamustdie/" title="SEE WHATS NEW WITH SANTANA MUST DIE" target="_blank" rel="noopener noreferrer"></a>				
-					                        <img width="300" height="300" src="https://cgm916.com/wp-content/uploads/2020/05/santanamustdie_graphic300x300-1-300x300.png" alt="" srcset="https://cgm916.com/wp-content/uploads/2020/05/santanamustdie_graphic300x300-1-300x300.png 300w, https://cgm916.com/wp-content/uploads/2020/05/santanamustdie_graphic300x300-1-150x150.png 150w, https://cgm916.com/wp-content/uploads/2020/05/santanamustdie_graphic300x300-1-100x100.png 100w" sizes="(max-width: 300px) 100vw, 300px" />					
+					                        <img width="300" height="300" src="https://cgm916.com/wp-content/uploads/2020/05/finni-1.jpeg" alt="" srcset="https://cgm916.com/wp-content/uploads/2020/05/finni-1.jpeg 300w, https://cgm916.com/wp-content/uploads/2020/05/finni-1-150x150.jpeg 150w, https://cgm916.com/wp-content/uploads/2020/05/finni-1-100x100.jpeg 100w" sizes="(max-width: 300px) 100vw, 300px" />					
 						<h4></h4>                            
-                                <h2 style="text-align: center; font-weight: bold; color: white; font-family: Anton;">A WORLDCLASS DJ - Santana Must Die</h2>
-					<a href="https://cgm916.com/santanamustdie/" title="SEE WHATS NEW WITH SANTANA MUST DIE" target="_blank" rel="noopener noreferrer"></a>				
+                                <h2 style="text-align: center; font-weight: bold; color: white; font-family: Anton;">KING FINNI BRUDDA - Been Thru Official Music Video</h2>
+					<a href="https://m.youtube.com/watch/?feature=youtu.be&v=4vfJiJXKDHs" title="Watch Video" target="_blank" rel="noopener noreferrer"></a>				
 					                        <img width="300" height="300" src="https://cgm916.com/wp-content/uploads/2020/05/Screenshot_20200513-095944_Facebook1-300x300-3.jpg" alt="" srcset="https://cgm916.com/wp-content/uploads/2020/05/Screenshot_20200513-095944_Facebook1-300x300-3.jpg 300w, https://cgm916.com/wp-content/uploads/2020/05/Screenshot_20200513-095944_Facebook1-300x300-3-150x150.jpg 150w, https://cgm916.com/wp-content/uploads/2020/05/Screenshot_20200513-095944_Facebook1-300x300-3-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" />					
 						<h4></h4>                            
                                 <h2 style="text-align: center; font-weight: bolder; color: white; font-family: Anton;">TO BE BLUNT SHOW - Interviews With Local Artists</h2>
