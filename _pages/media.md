@@ -15,7 +15,8 @@ post_date: 2020-05-15 11:29:00
 			<h1>MEDIA</h1>		
 					                        <img width="300" height="300" src="https://cgm916.com/wp-content/uploads/2020/05/pylit-Logo-blk-1-1024x670-1-300x300.png" alt="" srcset="https://cgm916.com/wp-content/uploads/2020/05/pylit-Logo-blk-1-1024x670-1-300x300.png 300w, https://cgm916.com/wp-content/uploads/2020/05/pylit-Logo-blk-1-1024x670-1-150x150.png 150w, https://cgm916.com/wp-content/uploads/2020/05/pylit-Logo-blk-1-1024x670-1-100x100.png 100w" sizes="(max-width: 300px) 100vw, 300px" />					
 						<h1></h1>                            
-                                <h2 style="text-align: center; font-weight: bold; color: white; font-family: Anton;">TALENTED VIDEOGRAPHER - <br> Pylit Media</h2>
+                                <h2 style="text-align: center; font-weight: bold; color: white; font-family: Anton;">TALENTED VIDEOGRAPHER -
+Pylit Media</h2>
 					<a href="https://www.youtube.com/watch?feature=youtu.be&v=4vfJiJXKDHs&app=desktop" title="King Finni Brudda" target="_blank" rel="noopener noreferrer"></a>				
                                 <style>
                     @media( min-width: 1px ) and (max-width:767px ) {
@@ -24,7 +25,7 @@ post_date: 2020-05-15 11:29:00
                         }  
                     }
                 </style>
-					                        <img width="300" height="300" src="https://cgm916.com/wp-content/uploads/2020/05/pylit-Logo-blk-1-1024x670-1-300x300.png" alt="" srcset="https://cgm916.com/wp-content/uploads/2020/05/pylit-Logo-blk-1-1024x670-1-300x300.png 300w, https://cgm916.com/wp-content/uploads/2020/05/pylit-Logo-blk-1-1024x670-1-150x150.png 150w, https://cgm916.com/wp-content/uploads/2020/05/pylit-Logo-blk-1-1024x670-1-100x100.png 100w" sizes="(max-width: 300px) 100vw, 300px" />					
+					                        <img width="300" height="300" src="https://cgm916.com/wp-content/uploads/2020/05/nashboogiebanner-300x300.jpeg" alt="" srcset="https://cgm916.com/wp-content/uploads/2020/05/nashboogiebanner-300x300.jpeg 300w, https://cgm916.com/wp-content/uploads/2020/05/nashboogiebanner-1024x1024.jpeg 1024w, https://cgm916.com/wp-content/uploads/2020/05/nashboogiebanner-150x150.jpeg 150w, https://cgm916.com/wp-content/uploads/2020/05/nashboogiebanner-768x768.jpeg 768w, https://cgm916.com/wp-content/uploads/2020/05/nashboogiebanner-1536x1536.jpeg 1536w, https://cgm916.com/wp-content/uploads/2020/05/nashboogiebanner-600x600.jpeg 600w, https://cgm916.com/wp-content/uploads/2020/05/nashboogiebanner-100x100.jpeg 100w, https://cgm916.com/wp-content/uploads/2020/05/nashboogiebanner-585x585.jpeg 585w, https://cgm916.com/wp-content/uploads/2020/05/nashboogiebanner.jpeg 1600w" sizes="(max-width: 300px) 100vw, 300px" />					
 						<h1></h1>                            
                                 <h2 style="text-align: center; font-weight: bolder; color: white; font-family: Anton;">King Finni Brudda</h2>
 					<a href="https://cgm916.com/pylitmedia/" title="Checkout Pylit Media " target="_blank" rel="noopener noreferrer"></a>				
