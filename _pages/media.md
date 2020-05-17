@@ -30,7 +30,7 @@ Pylit Media</h2>
                                 <h2 style="text-align: center; font-weight: bolder; color: white; font-family: Anton;">NASH BOOGIE - <br> Flip The Bag Music Video</h2>
 <br>
 <h4>Visit <a href="https://www.nashboogie.com">Nashboogie.com</a></h4>
-					<a href="https://youtu.be/IAMH2PFCb-g" title="Watch Music Video" target="_blank" rel="noopener noreferrer"></a>				
+					<a href="https://youtu.be/mBEIFubAiOI" title="Watch Music Video" target="_blank" rel="noopener noreferrer"></a>				
                                 <style>
                     @media( min-width: 1px ) and (max-width:767px ) {
                     #premium-banner-dea1f04 .premium-banner-ib-content {
